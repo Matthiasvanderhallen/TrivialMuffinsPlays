@@ -21,8 +21,7 @@ Some useful regexes exist to see whether all separate langauge files conform to 
 *`[^\n]|` : This represents a | that is not the first character of a line. Expected #: 0.
 
 #Merging
-The command ``./merger`` creates a file called output.txt that represents the merged languages. Move it to a file called ondertitels.txt on the HTTP Server to load it.
-Reload the Master webpage to reflect these changes.
+The command ``./merger`` creates a file called ondertitels.txt that represents the merged languages. Reload the Master webpage to reflect these changes.
 
 For this merger file, the following might be a useful, albeit imperfect, regex:
 *`\n\|\s*.+?\|\s*\|\s*.+?\n`: By playing around with the location of `.+?` you can find lines wich are blank in one or two languages, but given in a third. These should be checked explicitly.

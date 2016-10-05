@@ -13,5 +13,4 @@ I advise to use sublimeText, where you can go to the view menu > Layout > Column
 This way, you can easily check that the text at a certain line number is the same in all three languages.
 
 #Merging and deploying
-The command ``./merger`` creates a file called `output.txt` that represents the merged languages.
-the command ``./deploy`` deploys the newest subtitles. It calls the ``merger`` command, and moves the output.txt file to `ondertitels.txt` in the main folder (this folders parent director), where the HTTP server loads it. If necessary, reload the Master webpage to reflect these changes.
+The command ``./merger`` creates a file called `ondertitels.txt` that represents the merged languages.

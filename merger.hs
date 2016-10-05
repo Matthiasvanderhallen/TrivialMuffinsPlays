@@ -12,7 +12,7 @@ main = do
     frans <- liftM(lines) $ hGetContents handleFrans
     nederlands <- liftM(lines) $ hGetContents handleNederlands
     let output = "nr|nederlands|frans|engels" : (zipWith3 (\a b c -> '|': a ++ "|"++ b ++ "|" ++ c) nederlands frans engels)
-    writeFile "output.txt" (unlines output) -- unlines $(zipWith3 (\a b c -> a ++ b ++ c) engels frans nederlands)
+    writeFile "ondertitels.txt" (unlines output) -- unlines $(zipWith3 (\a b c -> a ++ b ++ c) engels frans nederlands)
     --sequence $ map (putStrLn) (unlines output)
     hClose handleEngels
     hClose handleFrans

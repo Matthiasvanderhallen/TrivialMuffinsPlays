@@ -8,12 +8,17 @@ main = do
     hSetEncoding handleEngels utf8_bom
     hSetEncoding handleFrans utf8_bom
     hSetEncoding handleNederlands utf8_bom
-    engels <- liftM(lines) $ hGetContents handleEngels
-    frans <- liftM(lines) $ hGetContents handleFrans
-    nederlands <- liftM(lines) $ hGetContents handleNederlands
+    engels <- liftM(map sanitize .lines) $ hGetContents handleEngels
+    frans <- liftM(map sanitize . lines) $ hGetContents handleFrans
+    nederlands <- liftM(map sanitize .lines) $ hGetContents handleNederlands
     let output = "nr|nederlands|frans|engels" : (zipWith3 (\a b c -> '|': a ++ "|"++ b ++ "|" ++ c) nederlands frans engels)
     writeFile "ondertitels.txt" (unlines output) -- unlines $(zipWith3 (\a b c -> a ++ b ++ c) engels frans nederlands)
     --sequence $ map (putStrLn) (unlines output)
     hClose handleEngels
     hClose handleFrans
     hClose handleNederlands
+
+sanitize :: String -> String
+sanitize "" = ""
+sanitize ('"':cs) = '“' : sanitize cs
+sanitize (c:cs) = c : sanitize cs

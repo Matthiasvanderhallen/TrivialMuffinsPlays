@@ -694,7 +694,7 @@ nr|nederlands|frans|engels
 |Ik zou zeer blij zijn als je de kans zou zien om je zomervakantie|Je serais très heureuse si vous pouviez passer vos vacances|I shall be very glad if you could see your way to spending
 |op Soldier Island door te brengen – als mijn gast natuurlijk.|d’été sur l’Île du Soldat - en tant que mon invitée, bien sûr.|your summer holiday on Soldier Island – as my guest, of course.
 |Ik stel voor 8 augustus, de trein van 12u40 van Paddington naar Oakbridge.|Je suggère le 8 Août, à 12h40 de Paddington à Oakbridge.|I suggest August 8th, 12:40 from Paddington to Oakbridge.
-|Beleefde groeten, A.N.”|Cordialement, U.N."//Je vous prie, madame, d’agréer l’expression de mes salutations distinguées, U. N.”|Yours sincerely, U.N.”
+|Beleefde groeten, A.N.”|Cordialement, U.N.“//Je vous prie, madame, d’agréer l’expression de mes salutations distinguées, U. N.”|Yours sincerely, U.N.”
 |Hmm. Ja, de handtekening is lichtelijk ambigu.|Hmm. Oui, la signature est légèrement ambiguë.|Hmm. Yes, the signature is slightly ambiguous.
 |Ik vond dat de naaktheid het afmaakte!|J’aime la touche de “nudité”!|I like the nudity touch!
 |Hier is mijn eigen lokbrief.|Ceci est ma propre lettre-leurre.|Here is my own decoy letter.
@@ -1348,7 +1348,7 @@ nr|nederlands|frans|engels
 |“Neem een drankje!”|“Prenez un verre!”|“Have a drink!”
 |Tien mensen beschuldigd van moord?|Dix personnes accusées d'assassiner,|Ten people accused of murder
 |Dat is oké!|de rien...|that’s all right –
-|Neem gewoon een drankje.|"Simplement prenez un verre!"|just have a drink.
+|Neem gewoon een drankje.|“Simplement prenez un verre!“|just have a drink.
 |Alles is prima zolang u maar een drankje heeft.|Tout va bien tant que vous avez un verre dans la main.|Everything’s fine so long as you have a drink.
 |Oké. Oké, blijf maar dorstig.|Très bien. Très bien… ayez soif.|All right. All right – stay thirsty.
 |Oh, u - u bent niets anders dan een verkwister -|Oh, vous… vous n’êtes rien de plus qu’un fainéant…|Oh, you – you’re nothing but a waster...
@@ -1686,8 +1686,8 @@ nr|nederlands|frans|engels
 |Hou op. Vera - Stop ermee! Het komt wel goed met haar.|Arrêtez. Vera… arrêtez! Elle ira bien.|Stop it. Vera – Stop it! She’ll be all right.
 |Jongens, wat is het volgende? Bijen? Houden ze bijen op het eiland?|Quel est la suite, les gars? De abeilles? Y a-t-il des abeilles sur l’île?|What next, boys? Bees? Do they keep bees on the island?
 |Wel, dat is het toch het volgende vers, niet?|C’est bien le prochain vers, non?|Well that’s the next verse, isn’t it?
-|“Zes kleine soldaatjes hielden een honingbedrijf.|“Six petits soldats rêvassaient au rucher.|"Six little soldier boys playing with a hive;
-|Eén werd gestoken door een bij, en toen waren ze nog met vijf.”|Une abeille l'un d'eux a piqué, n'en resta plus que cinq.”|A bumble bee stung one, and then there were five."
+|“Zes kleine soldaatjes hielden een honingbedrijf.|“Six petits soldats rêvassaient au rucher.|“Six little soldier boys playing with a hive;
+|Eén werd gestoken door een bij, en toen waren ze nog met vijf.”|Une abeille l'un d'eux a piqué, n'en resta plus que cinq.”|A bumble bee stung one, and then there were five.“
 |Eén werd gestoken door een bij -|Un bourdon en a piqué une…|A bumble bee stung one –
 |We zien er allemaal nog best monter uit, niets mis met iemand van ons.|On a tous l’air vif, rien qui n’aille pas chez nous.|We all look pretty spry, nothing wrong with any of us.
 |Mijn God, jullie denken toch niet - een injectiespuit.|Mon Dieu, vous ne pensez pas… Une seringue hypodermique.|My God, you don’t think – A hypodermic syringe.
@@ -2119,7 +2119,7 @@ nr|nederlands|frans|engels
 |in plaats van haar te drogeren.|alors qu’il aurait pu juste la droguer.|when he might just as well have drugged her.
 |Hij wil het allemaal laten passen. // dressing up = kostumeren?|Il veut que tout soit parfaitement identique.|He’s got to make it all fit in.
 |En dat geeft ons een leidraad. Hoe gaan we nu verder?|Et cela peut nous donner un tuyau. Où allons-nous à partir de là?|And that might give us a pointer. Where do we go from here?
-|"Drie kleine soldaatjes gingen naar de zoo mee.|“Trois petits soldats s'en allèrent au zoo.|“Three little soldier boys walking in the zoo.
+|Drie kleine soldaatjes gingen naar de zoo mee.|“Trois petits soldats s'en allèrent au zoo.|“Three little soldier boys walking in the zoo.
 |Een grote beer drukte er één fijn - toen waren er nog twee.|Un ours de l'un fit la peau, n'en resta plus que deux.”|A big bear hugged one and then there were two.”
 |Dit gaat moeilijk worden. Er is geen zoo op het eiland!|Bonne chance avec celui-là, il n’y a pas de zoo sur cette île!|He’ll have a job with that one. There’s no zoo on this island!
 |Zeg kapitein Lombard wat denk je van een fles bier?|Capitaine Lombard, que diriez-vous d’une bonne bouteille de bière?|I say, Captain Lombard, what about a nice bottle of beer?
@@ -2200,8 +2200,8 @@ nr|nederlands|frans|engels
 |Toen ik terugkeek naar de rots zag ik dat Peter naar de rots zwom.|Quand je suis revenue, j’ai regardé en bas et j’ai vu Peter nager vers le rocher.|When I got back to the rock, I looked down and saw Peter swimming out to the rock.
 |Ik wist dat hij geen kans had, de stroming had hem al.|Je savais qu’il n’avait aucune chance, le courant l’avait déjà emporté.|I knew he hadn’t a chance, the current had got him already.
 |Ik vloog naar het strand en Hugh probeerde me te stoppen.|J’ai couru vers la plage et Hugh a essayé de m’en empêcher.|I flew towards the beach and Hugh tried to stop me.
-|“Wees geen dwaas”, zei hij.|"Ne sois pas idiote," m’a-t-il dit,|“Don’t be a fool,” he said.
-|"Ik heb de kleine idioot verteld dat hij het kon."|“j’ai dit à ce petit con qu’il pouvait le faire.”|“I told the little ass he could do it.”
+|“Wees geen dwaas”, zei hij.|“Ne sois pas idiote,“ m’a-t-il dit,|“Don’t be a fool,” he said.
+|“Ik heb de kleine idioot verteld dat hij het kon.“|“j’ai dit à ce petit con qu’il pouvait le faire.”|“I told the little ass he could do it.”
 |Ga verder, het is interessant.|Continuez. C’est intéressant.|Go on. This is interesting.
 |Ik duwde hem weg, hij probeerde me te stoppen,|Je me suis frayé un chemin… il a essayé de m’arrêter,|I pushed past him – he tried to stop me,
 |maar ik geraakte weg en liep naar beneden.|mais je me suis libérée et me suis précipitée en bas.|but I got away and rushed down.
@@ -2305,7 +2305,7 @@ nr|nederlands|frans|engels
 |Wat?|Quoi….|What –
 |Ik kan mijn mooi rijm niet verpesten.|Je ne peux gâcher ma contine.|I can’t spoil my lovely rhyme.
 |Mijn tien kleine soldaatjes. Jij bent de laatste.|Mes dix petits soldats. Vous êtes la dernière.|My ten little soldier boys. You’re the last one.
-|“Eén klein soldaatje bleef helemaal alleen. Hij verhing zichzelf-”|“Un petit soldat se retrouva tout esseulé. Se pendre il s'en est allé"|One little solider boy left all alone. He went and hanged himself.
+|“Eén klein soldaatje bleef helemaal alleen. Hij verhing zichzelf-”|“Un petit soldat se retrouva tout esseulé. Se pendre il s'en est allé“|One little solider boy left all alone. He went and hanged himself.
 |Ik moet mijn verhanging hebben, mijn verhanging|Je dois avoir ma pendaison… ma pendaison...|I must have my hanging – my hanging –
 |Philip, Philip -|Philip… Philip...|Philip – Philip –
 |Het is in orde, liefste. Het is in orde.|Tout va bien, ma mignonne. Tout va bien.|It’s all right, darling. It’s all right.

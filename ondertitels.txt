@@ -1,5 +1,7 @@
 nr|nederlands|frans|engels
 |||
+|De mensen op een zwarte metalen stoel krijgen een muffin ter compensatie aangeboden.|Les gens qui prennent une chaise noire reçoivent un muffin.<br> (Free muffin for those on a black chair.)|Free muffin
+|||
 |Tien kleine negertjes gingen uit eten langs verre wegen.|Dix petits soldats s’en furent dîner.|Ten little soldier boys went out to dine;
 |Eén stikte in zijn drankje – toen waren er nog negen.|L'un d'eux but à s'en étrangler, n'en resta plus que neuf...|One choked his little self and then there were Nine.
 |Negen kleine negertjes praatten tot diep in de nacht,|Neuf petits soldats restèrent éveillés tard.|Nine little soldier boys sat up very late;
@@ -527,6 +529,7 @@ nr|nederlands|frans|engels
 |Waar de duivel kwam die stem vandaan?|D’où sortait cette voix ?|Where the devil did that voice come from?
 |||
 |Van hier dus.|Ici.|Here we are.
+|Dames en heren, stilte, alstublieft!|Mesdames et Messieurs, silence, s’il vous plaît !|Ladies and Gentlemen, silence, please!
 |Jullie worden belast met deze aanklachten -|Vous êtes accusés de ces crimes-|You are charged with these indictments –
 |Zet het af! Zet het af! Het is verschrikkelijk!|Éteignez ceci! Éteignez-le! C’est horrible!|Turn it off! Turn it off! It’s horrible!
 |Een schandalige en harteloze grap.|Une farce honteuse et sans cœur.|A disgraceful and heartless practical joke.
@@ -786,7 +789,7 @@ nr|nederlands|frans|engels
 |Ik heb een uitspraak gedaan over een terecht veroordeelde moordenaar.|J’ai ordonné la peine pour un meurtrier condamné à juste titre.|I passed sentence on a rightly convicted murderer.
 |Kende jij Seton daarvoor al? Ik bedoel persoonlijk.|Connaissiez-vous Seton? Je veux dire, personnellement.|Did you know Seton at all? I mean,personally.
 |Ik kende niets van Seton voor het proces.|Je ne savais rien sur Seton avant le procès.|I knew nothing of Seton previous to the trial.
-|//|Le vieux ment. Je jure qu’il ment!|The old boy’s lying. I’ll swear he’s lying.
+|Hij liegt, ik zweer dat hij liegt//|Le vieux ment. Je jure qu’il ment!|The old boy’s lying. I’ll swear he’s lying.
 |Die kerel is een gek. Een absolute gek.|Ce mec est un fou. Complètement.|Fellow’s a madman. Absolute madman.
 |Heeft een bij in zijn muts. Heeft het het helemaal bij het verkeerde eind.|Il est obsédé. Il a compris tout de travers dès le début.|Got a bee in his bonnet. Got hold of the wrong end of the stick all round.
 |Het is het beste om dit soort ding onbeantwoord te laten.|Il vaut mieux de laisser ce genre de chose sans réponse.|Best really to leave this sort of thing unanswered.
@@ -796,7 +799,7 @@ nr|nederlands|frans|engels
 |Richmond was een van mijn officieren.|Richmond était un de mes officiers.|Richmond was one of my officers.
 |Ik heb hem op verkenning gestuurd in 1917. Hij werd gedood.|Je l’ai envoyé en reconnaissance en 1917. Il a été tué.|I sent him on reconnaissance in 1917. He was killed.
 |Ik wil ook graag zeggen: ik neem de blaam op mijn vrouw ten zeerste kwalijk.|Je voudrais dire aussi - j’éprouve du ressentiment pour - l’insulte à ma femme.|Also like to say – I resent very much the slur on my wife.
-|Beste vrouw in de wereld. Absoluut, een keizerlijke vrouw.|Elle est morte depuis longtemps. La meilleure femme au monde. Absolument.|Best woman in the world. Absolutely – Caesar’s wife.
+|Ze was de beste vrouw in de wereld. Absoluut, een keizerlijke vrouw.|Elle est morte depuis longtemps. La meilleure femme au monde. Absolument.|Best woman in the world. Absolutely – Caesar’s wife.
 |Ik was aan het denken – John en Lucy Combes.|Je viens d’y penser - John et Lucy Combes.|I’ve just been thinking – John and Lucy Combes.
 |Dat moet dat koppel kinderen zijn die ik overreden heb bij Cambridge.|Ils devraient être des gosses que j’ai écrasés près de Cambridge.|Must have been a couple of kids I ran over near Cambridge.
 |Vreselijke pech.|Une malchance terrible.|Beastly bad luck.
@@ -898,7 +901,7 @@ nr|nederlands|frans|engels
 |Niemand, meneer. Helemaal niemand.|Personne, monsieur. Vraiment personne.|Nobody, sir. Nobody at all.
 |U bent daar zeker van?|Vous en êtes sûr?|You’re sure of that?
 |Vrij zeker, meneer.|Quasiment sûr, monsieur.|Quite sure, sir.
-|Bedankt. Ga niet, Rogers.|Merci.|Thank you. Don’t go, Rogers.
+|Bedankt. Ga niet, Rogers.|Merci. Ne vous en allez pas, Rogers.|Thank you. Don’t go, Rogers.
 |Ik ben nog niet zeker van de bedoeling van onze onbekende gastheer|Ne vous en allez pas, Rogers.|I am not yet clear as to the purpose of our unknown host
 |om ons hier samen te brengen.|Je ne suis pas encore sûr du but de notre hôte inconnu|in getting us to assemble here.
 |Maar ik ben van mening dat hij niet normaal is|de nous rassembler ici.|But in my opinion he’s not sane in the accepted
@@ -936,7 +939,8 @@ nr|nederlands|frans|engels
 |Zelfmoord, he? Dat is vreemd.|Suicide? Quel tournure surprenante.|Suicide, eh? That’s a rum go.
 |Je zou nooit denken dat hij zelfmoord zou plegen.|Je n'aurais jamais pensé qu’il pourrait se suicider.|You’d never think he’d commit suicide.
 |Hij was zo levendig. Hij amuseerde zich.|Il  était en pleine forme. Il profitait de la vie.|He was so alive. He was enjoying himself.
-|Oh! Kijk - hier is een van de soldaatjes van de schoorsteenmantel - stuk.|Oh! Regardez - un de ces petits soldats est tombé de la cheminée - cassé.|Oh! Look – here’s one of the little soldiers off the mantelpiece – broken.
+|Oh! Kijk - hier is een van de soldaatjes van de schoorsteenmantel.|Oh! Regardez - un de ces petits soldats est tombé de la cheminée.|Oh! Look – here’s one of the little soldiers off the mantelpiece.
+|Stuk.|Cassé.|Broken.
 |//Act II, Scene I|//Act II, Scene I|//Act II, Scene I
 |We zijn tot op de top gegaan. Nog geen teken van de boot.|Nous nous sommes rendus jusqu’au sommet. Encore aucun signe de ce bateau.|We’ve been up to the top. No sign of that boat yet.
 |Het is nog heel vroeg.|Il est encore très tôt.|It’s very early still.
@@ -1028,7 +1032,8 @@ nr|nederlands|frans|engels
 |weet u, Juffrouw Claythorne.|vous savez, Mlle Claythorne?|you know, Miss Claythorne.
 |Oh, ja - natuurlijk.|Oh, oui, bien sûr.|Oh, yes – of course.
 |Wat is er hier gaande? Geen ontbijt te zien.|Que se passe-t-il ici? Aucun signe du petit-déjeuner?|What’s going on here? No sign of any breakfast.
-|Heeft u honger, generaal? Heeft u zin in ontbijt?|Avez-vous faim, Général? Souhaiteriez-vous un petit-déjeuner?|Are you hungry, General? Feeling like breakfast?
+|Heeft u honger, generaal? |Avez-vous faim, Général?|Are you hungry, General?
+|Heeft u zin in ontbijt?|Souhaiteriez-vous un petit-déjeuner?|Feeling like breakfast?
 |Lesley - Lesley - mijn liefste.|Lesley, Lesley! Ma chère…|Lesley – Lesley – my dear.
 |Nee - ik ben niet - ik ben Vera Claythorne.|Non,ce n’est pas moi! Je suis Vera Claythorne.|No – I’m not – I’m Vera Claythorne.
 |Natuurlijk. Vergeef me. Ik zag je aan voor mijn vrouw.|Bien sûr, veuillez m’excuser, je vous ai prise pour ma femme…|Of course. Forgive me. I took you for my wife.
@@ -1097,7 +1102,7 @@ nr|nederlands|frans|engels
 |Wat is er dan precies gebeurd?|Alors, que s’est-il passé exactement?|Then what exactly did happen?
 |Onmogelijk te zeggen zonder een autopsie.|Impossible à dire sans autopsie.|Impossible to say without an autopsy.
 |Als, bijvoorbeeld, dit overlijden was gebeurd|Si, en l'occurrence, un de|If, for instance, this death had occurred
-|bij één van uw patiënten,|vos patients avait succombé de cette manière,|in the case of one of your private patients,
+|bij één van uw persoonlijke patiënten,|vos patients avait succombé de cette manière,|in the case of one of your private patients,
 |wat zou uw procedure zijn geweest?|qu’aurait été la procédure que vous auriez suivie?|what would have been your procedure?
 |Zonder enige voorkennis over de gezondheid van de vrouw,|Sans connaissance a priori de l’état de santé de cette femme,|Without any previous knowledge of the woman’s state of health,
 |zou ik zeker geen verklaring kunnen geven.|je ne pourrais pas délivrer de certificat de décès.|I could certainly not give a certificate.
@@ -1164,7 +1169,7 @@ nr|nederlands|frans|engels
 |Ik ben niet zo’n goede kok, vrees ik.|Je ne suis pas très doué pour la cuisine, je crains.|I’m not much of a hand as a cook, I’m afraid.
 |Het is de lunch die me zorgen baart.|C’est le déjeuner qui me tracasse.|It’s lunch that’s worrying me.
 |Zou koude tong en gelatine volstaan?|De la langue froide avec gélatine vous iraient?|Would cold tongue and gelatin be satisfactory?
-|En ik zou wat aardappelen kunnen frituren.|Et je pourrais faire un peu de pommes frites.|And I could manage some fried potatoes.
+|En ik zou wat gebakken aardappelen kunnen frituren.|Et je pourrais faire un peu de pommes frites.|And I could manage some fried potatoes.
 |En dan is er ingeblikt fruit en biscuits.|A part cela, il y a des fruits en boîte et du fromage et des biscuits.|And then there’s tinned fruit and cheese and biscuits.
 |Dat zal prima zijn, Rogers.|Ca ira, Rogers.|That will be fine, Rogers.
 |Lunch? Lunch? We zullen hier niet meer zijn voor de lunch!|Déjeuner? Déjeuner? Nous ne serons plus là pour le déjeuner!|Lunch? Lunch? We shan’t be here for lunch!
@@ -1476,7 +1481,8 @@ nr|nederlands|frans|engels
 |zich zou kunnen verbergen en een redelijke kans zou hebben|pourrait se cacher et avoir une chance|could hide and have a reasonable chance
 |om ermee weg te komen.|raisonnable de s’en tirer?|of getting away with it.
 |Eén plaats - waar?|Un endroit… où?|One place – where?
-|Hier in deze kamer - Meneer O’Nym is één van ons!|Ici dans cette pièce... M. Owen est parmi nous!|Here in this room – Mr. Owen is one of us!
+|Hier in deze kamer.|Ici dans cette pièce... |Here in this room.
+|Meneer O’Nym is één van ons!|M. Owen est parmi nous!|Mr. Owen is one of us!
 |// Act II, Scene II|// Act II, Scene II|// Act II, Scene II
 |Meneer Lawrence?|Sir Lawrence?|Sir Lawrence?
 |Wel, Meneer Blore?|Qu’y a-t-il, M. Blore?| Well, Mr. Blore?
@@ -1728,6 +1734,7 @@ nr|nederlands|frans|engels
 |Waarom gebruik je je verstand niet, Blore?|Pourquoi n’utilisez-vous pas votre cerveau, Blore?|Why don’t you use your brains, Blore?
 |Had ik het gewild, dan had ik jullie allemaal al neergeschoten,|Si j’avais voulu, j’aurais pu descendre chacun de vous entre-temps…|If I’d wanted to, I could have shot the lot of you by this time,
 |paf, paf, paf, paf, paf.|Pop, pop, pop, pop, pop!|pop, pop, pop, pop, pop.
+|pop!|pop!|pop!
 |Ja, maar dat past niet in het grote idee.|Oui mais ce n’est pas vraiment le plan.|Yes, but that’s not the big idea.
 |Het gekke tintje? Mijn God, man, ik heb ze nog genoeg op een rijtje!|Cette touche de folie? Mon dieu, je suis suffisamment sain d’esprit!|The crazy touch? My God, man, I’m sane enough!
 |De dokter zegt dat er wel vaker krankzinnigen zijn|Le docteur dit qu’il y a des fous|The doctor says there are some lunatics
@@ -2324,4 +2331,5 @@ nr|nederlands|frans|engels
 |Selinde Smets, Eva Minne, Xavier Dejager, Tom Mercelis|Scenery: Marieke Colleman, Maarten Croonen, Alberick Lismont, Bertrand Dujardin,|Thanks [4/7]
 |Tem Bertels, Eva Minne, Selinde Smets|Costumes:|Thanks [5/7]
 |Tom Mercelis, Xavier Dejager|Light and sound: Iani Elen, Matthias Van der Hallen|Thanks [6/7]
-|Lies Huysegems|Make-up:|Thanks [7/7]
+|Lies Huysegems, Claire, Irene & Bo|Make-up:|Thanks [7/7]
+|Decor and actors are now available for pictures with the audience|Decor and actors are now available for pictures with the audience|Decor and actors are now available for pictures with the audience
